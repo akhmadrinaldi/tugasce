@@ -2,5 +2,6 @@
 using namespace std;
 
 int main(){
-	count<<"Hello word";
+	count<<"Hello Dunia"; << end1 ;
+	count<<"Ini Program c++ Pertama saya";
 }
